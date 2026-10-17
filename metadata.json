@@ -1,0 +1,6 @@
+{
+  "name": "Hind Arabia Sovereign Attar",
+  "description": "Haute Parfumerie Royale & artisanal alcohol-free concentrated attars, wild Dehn Al Oud, and bespoke fragrance salon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
